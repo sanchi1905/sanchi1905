@@ -1,6 +1,6 @@
 - 👋 Hi, I’m Sanchi Sisodia 
 - 👀 I’m interested in Front End Development 
-- 🌱 I’m currently learning Html5,Css,Php
+- 🌱 I’m currently learning HTML5,CSS3,JAVASCRIPT
 - 💞️ I’m looking to collaborate on live projects 
 - 📫 How to reach me : mail me - sanchisisodia121@gmail.com
 
