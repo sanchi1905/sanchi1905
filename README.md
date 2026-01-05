@@ -36,28 +36,7 @@
 
 ---
 
-## 📌 Projects (Academic & Mini)
-- 🔹 **Music Genre Classification** – Machine Learning based project using Python  
-- 🔹 **AI Productivity & Self-Monitoring App** – Concept-based AI project  
-- 🔹 **ChatGPT UI Clone** – Frontend logic & UI implementation  
-- 🔹 **Travel Trail** – Academic mini project (logic & system design focused)
 
----
-
-## 📊 GitHub Stats
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=sanchi1905&show_icons=true&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=sanchi1905&theme=tokyonight" />
-</p>
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchi1905&layout=compact&theme=tokyonight" />
-</p>
-
----
 
 ## 🎯 Internship Focus
 - 🔍 Looking for **AI / ML Internships**
