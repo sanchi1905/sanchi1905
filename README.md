@@ -1,4 +1,4 @@
-<h1 align="center">H!!, I'm Sanchi 😊</h1>
+<h1 align="center">Hi, I'm Sanchi Sisodia! 👋</h1>
 <h3 align="center">MCA Student | Aspiring AI & ML Engineer | Tech Enthusiast</h3>
 
 <p align="center">
