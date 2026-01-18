@@ -7,7 +7,7 @@
 
 ---
 # 💫 About Me:
-🔭 I’m currently working on: Hackathon project which is based on AI.<br>👯 I’m looking to collaborate on: Open-source projects involving LLMs (Large Language Models) or AI-integrated Web Applications.<br>🤝 I’m looking for help with: Mastering MLOps and deploying large-scale models efficiently on the cloud.<br>🌱 I’m currently learning: Deep Learning architectures, Neural Networks, and Natural Language Processing (NLP).<br>💬 Ask me about: React.js, Node.js, or how I'm bridging the gap between Web Dev and AI/ML.
+🔭 I’m currently working on: Making my Personal AI Agent.<br>👯 I’m looking to collaborate on: Open-source projects involving LLMs (Large Language Models) or AI-integrated Web Applications.<br>🤝 I’m looking for help with: Mastering MLOps and deploying large-scale models efficiently on the cloud.<br>🌱 I’m currently learning: Deep Learning architectures, Neural Networks, and Natural Language Processing (NLP).<br>💬 Ask me about: React.js, Node.js, or how I'm bridging the gap between Web Dev and AI/ML.
 
 
 ## 🌐 Socials:
