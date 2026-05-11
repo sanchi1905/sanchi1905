@@ -2,8 +2,6 @@
   <img src="https://readme-typing-svg.herokuapp.com?font=Poppins&size=30&pause=1000&color=8A2BE2&center=true&vCenter=true&width=850&lines=Hi+👋,+I'm+Sanchi+Sisodia;AI+%26+ML+Engineer;Full+Stack+Developer;Building+Smart+AI+Applications;Open+Source+Enthusiast;Creative+Technologist" />
 </p>
 
-<h1 align="center">Hi 👋, I'm Sanchi Sisodia</h1>
-
 <h3 align="center">
 AI & ML Engineer • Full Stack Developer • Creative Technologist
 </h3>
@@ -141,13 +139,18 @@ Building intelligent and impactful web applications 🚀
 
 <p align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=sanchi1905&show_icons=true&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sanchi1905&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
 
-<img src="https://nirzak-streak-stats.vercel.app/?user=sanchi1905&theme=tokyonight&hide_border=true"/>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchi1905&layout=compact&theme=tokyonight&hide_border=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchi1905&layout=compact&langs_count=8&theme=tokyonight"/>
 
 </p>
+
+<p align="center">
+
+<img src="https://streak-stats.demolab.com?user=sanchi1905&theme=tokyonight"/>
+
+</p>
+
 
 ---
 
@@ -176,9 +179,8 @@ Building intelligent and impactful web applications 🚀
 # 🐍 Contribution Snake
 
 <p align="center">
-<img src="https://github.com/sanchi1905/sanchi1905/blob/output/github-contribution-grid-snake.svg"/>
+  <img src="https://raw.githubusercontent.com/sanchi1905/sanchi1905/output/github-contribution-grid-snake.svg" alt="Snake animation" />
 </p>
-
 ---
 
 # ✨ Quote
