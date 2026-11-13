@@ -18,16 +18,17 @@ Building intelligent and impactful web applications 🚀
 
 # 🌟 About Me
 
-* 🎓 MCA Student at Uttaranchal University with a strong interest in AI-powered technologies
-* 💻 Full Stack Developer focused on modern, responsive, and user-centric applications
-* 🤖 Passionate about Artificial Intelligence, Machine Learning, NLP, AI Agents, and intelligent systems
-* 🚀 Currently building AI-powered applications focused on productivity, mental wellness, and smart assistance
-* 🌱 Exploring LLMs, Deep Learning, Generative AI, scalable AI systems, and AI-integrated web experiences
-* 🧠 Worked on projects like MindEase, Krishi Saathi, Jal Drishti, and Real-Time Chat Applications
-* 🎨 Love combining clean UI/UX with powerful backend logic and AI capabilities
-* 🔥 Interested in building impactful technology that solves real-world problems
-* 📈 Continuously learning, experimenting, and improving through hands-on development
-* ✨ Believer in consistency, creativity, and growth through building
+- 💼 Currently working as an **Academic Mentor @ Kalvium, LPU (Jalandhar)**
+- 🎓 MCA Student at Uttaranchal University with a strong interest in AI-powered technologies
+- 💻 Full Stack Developer focused on modern, responsive, and user-centric applications
+- 🤖 Passionate about Artificial Intelligence, Machine Learning, NLP, AI Agents, and intelligent systems
+- 🚀 Currently building AI-powered applications focused on productivity, mental wellness, and smart assistance
+- 🌱 Exploring LLMs, Deep Learning, Generative AI, scalable AI systems, and AI-integrated web experiences
+- 🧠 Worked on projects like MindEase, Krishi Saathi, Jal Drishti, and Real-Time Chat Applications
+- 🎨 Love combining clean UI/UX with powerful backend logic and AI capabilities
+- 🔥 Interested in building impactful technology that solves real-world problems
+- 📈 Continuously learning, experimenting, and improving through hands-on development
+- ✨ Believer in consistency, creativity, and growth through building
 
 ---
 
@@ -139,15 +140,15 @@ Building intelligent and impactful web applications 🚀
 
 <p align="center">
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sanchi1905&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api?username=sanchi1905&show_icons=true&theme=radical&include_all_commits=true&count_private=true"/>
 
-<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchi1905&layout=compact&langs_count=8&theme=tokyonight"/>
+<img height="170em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=sanchi1905&layout=compact&langs_count=8&theme=radical"/>
 
 </p>
 
 <p align="center">
 
-<img src="https://streak-stats.demolab.com?user=sanchi1905&theme=tokyonight"/>
+<img src="https://streak-stats.demolab.com?user=sanchi1905&theme=radical"/>
 
 </p>
 
@@ -156,14 +157,14 @@ Building intelligent and impactful web applications 🚀
 
 # 📈 GitHub Activity Graph
 
-[![Sanchi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanchi1905\&theme=tokyo-night)](https://github.com/sanchi1905)
+[![Sanchi's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=sanchi1905&theme=radical)](https://github.com/sanchi1905)
 
 ---
 
 # 🏆 GitHub Trophies
 
 <p align="center">
-<img src="https://github-profile-trophy.vercel.app/?username=sanchi1905&theme=tokyonight&no-frame=true&row=1&column=7"/>
+<img src="https://github-profile-trophy.vercel.app/?username=sanchi1905&theme=radical&no-frame=true&row=1&column=7"/>
 </p>
 
 ---
@@ -171,7 +172,7 @@ Building intelligent and impactful web applications 🚀
 # ✨ Random Dev Quote
 
 <p align="center">
-<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight"/>
+<img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical"/>
 </p>
 
 ---
