@@ -18,17 +18,14 @@ Building intelligent and impactful web applications 🚀
 
 # 🌟 About Me
 
-- 💼 Currently working as an **Academic Mentor @ Kalvium, LPU (Jalandhar)**
-- 🎓 MCA Student at Uttaranchal University with a strong interest in AI-powered technologies
-- 💻 Full Stack Developer focused on modern, responsive, and user-centric applications
-- 🤖 Passionate about Artificial Intelligence, Machine Learning, NLP, AI Agents, and intelligent systems
-- 🚀 Currently building AI-powered applications focused on productivity, mental wellness, and smart assistance
-- 🌱 Exploring LLMs, Deep Learning, Generative AI, scalable AI systems, and AI-integrated web experiences
-- 🧠 Worked on projects like MindEase, Krishi Saathi, Jal Drishti, and Real-Time Chat Applications
-- 🎨 Love combining clean UI/UX with powerful backend logic and AI capabilities
-- 🔥 Interested in building impactful technology that solves real-world problems
-- 📈 Continuously learning, experimenting, and improving through hands-on development
-- ✨ Believer in consistency, creativity, and growth through building
+- 💼 Currently working as an **Academic Mentor @ Kalvium, LPU (Jalandhar)**, empowering the next generation of developers.
+- 🎓 **MCA Graduate** from Uttaranchal University with a strong foundation in AI and modern web technologies.
+- 💻 **Full Stack & AI Developer** passionate about crafting responsive, user-centric, and intelligent systems.
+- 🤖 **Deeply interested in** Machine Learning, NLP, AI Agents, and scalable AI architecture.
+- 🚀 **Building tools that matter:** Creator of *MindEase*, *Krishi Saathi*, *Jal Drishti*, and various real-time platforms focused on productivity, sustainability, and mental wellness.
+- 🌱 **Currently exploring** LLMs, Generative AI, Deep Learning, and seamless AI integrations into web experiences.
+- 🎨 **My Philosophy:** Combining clean UI/UX with powerful backend logic to solve real-world problems.
+- ✨ Believer in consistency, creativity, and continuous growth through hands-on building.
 
 ---
 
